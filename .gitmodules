@@ -1,0 +1,18 @@
+[submodule "submodules/circulo-de-iniciacion"]
+	path = submodules/circulo-de-iniciacion
+	url = https://github.com/granhalcon/circulo-de-iniciacion.git
+[submodule "submodules/biblioteca-de-consulta-saw"]
+	path = submodules/biblioteca-de-consulta-saw
+	url = https://github.com/granhalcon/biblioteca-de-consulta-saw.git
+[submodule "submodules/quinto-evangelio"]
+	path = submodules/quinto-evangelio
+	url = https://github.com/granhalcon/quinto-evangelio.git
+[submodule "submodules/primeras-letras"]
+	path = submodules/primeras-letras
+	url = https://github.com/granhalcon/primeras-letras.git
+[submodule "submodules/pintas-ayahuasqueras"]
+	path = submodules/pintas-ayahuasqueras
+	url = https://github.com/granhalcon/pintas-ayahuasqueras.git
+[submodule "submodules/circulos-de-medicina"]
+	path = submodules/circulos-de-medicina
+	url = https://github.com/granhalcon/circulos-de-medicina.git
