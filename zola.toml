@@ -1,0 +1,29 @@
+base_url = "https://granhalcon.github.io/circulo-solar/"
+title = "Círculo de Cultura Gnóstica y Medicinas Ancestrales"
+description = "Círculo de Cultura Gnóstica y Medicinas Ancestrales."
+default_language = "es"
+
+compile_sass = true
+build_search_index = false
+generate_sitemap = true
+generate_robots_txt = true
+
+[markdown]
+
+[markdown.highlighting]
+theme = "catppuccin-mocha"
+
+[extra]
+search_url = "buscar/"
+footer_description = "Textos apócrifos de la enseñanza gnóstica y crónicas de las pintas ayahuasqueras de los jaguares y las serpientes."
+author = "Gran Halcón"
+copyright_year = 2026
+navigation = [
+  { name = "Círculo", url = "" },
+  { name = "Círculo de Iniciación", url = "circulo-de-iniciacion/" },
+  { name = "Biblioteca", url = "biblioteca-de-consulta-saw/" },
+  { name = "Quinto Evangelio", url = "quinto-evangelio/" },
+  { name = "Primeras Letras", url = "primeras-letras/" },
+  { name = "Pintas Ayahuasqueras", url = "pintas-ayahuasqueras/" },
+  { name = "Círculos de Medicina", url = "circulos-de-medicina/" },
+]
