@@ -25,13 +25,13 @@ footer_description = "Textos apócrifos de la enseñanza gnóstica y crónicas d
 footer_author = "Gran Halcón"
 copyright_year = 2026
 navigation = [
-  { name = "Círculo", url = "/", active = true },
-  { name = "Círculo de Iniciación", url = "https://circulo.pages.dev/circulo-de-iniciacion/" },
-  { name = "Biblioteca", url = "https://circulo.pages.dev/biblioteca-de-consulta-saw/" },
-  { name = "Quinto Evangelio", url = "https://circulo.pages.dev/quinto-evangelio/" },
-  { name = "Primeras Letras", url = "https://circulo.pages.dev/primeras-letras/" },
-  { name = "Pintas Ayahuasqueras", url = "https://circulo.pages.dev/pintas-ayahuasqueras/" },
-  { name = "Círculos de Medicina", url = "https://circulo.pages.dev/circulos-de-medicina/" },
+  { name = "Círculo", url = "" },
+  { name = "Círculo de Iniciación", url = "circulo-de-iniciacion/" },
+  { name = "Biblioteca", url = "biblioteca-de-consulta-saw/" },
+  { name = "Quinto Evangelio", url = "quinto-evangelio/" },
+  { name = "Primeras Letras", url = "primeras-letras/" },
+  { name = "Pintas Ayahuasqueras", url = "pintas-ayahuasqueras/" },
+  { name = "Círculos de Medicina", url = "circulos-de-medicina/" },
 ]
 
 [extra.site]
