@@ -1,29 +1,48 @@
-base_url = "https://granhalcon.github.io/circulo-solar/"
+# Sitio
+base_url = "https://circulo.pages.dev"
 title = "Círculo de Cultura Gnóstica y Medicinas Ancestrales"
-description = "Círculo de Cultura Gnóstica y Medicinas Ancestrales."
+description = "Textos apócrifos de la enseñanza gnóstica y crónicas de las pintas ayahuasqueras de los jaguares y las serpientes."
 default_language = "es"
 
+# Compilación
 compile_sass = true
+minify_html = true
 build_search_index = false
 generate_sitemap = true
 generate_robots_txt = true
 
 [markdown]
+insert_anchor_links = "right"
+lazy_async_image = true
 
 [markdown.highlighting]
 theme = "catppuccin-mocha"
 
 [extra]
-search_url = "buscar/"
 footer_description = "Textos apócrifos de la enseñanza gnóstica y crónicas de las pintas ayahuasqueras de los jaguares y las serpientes."
-author = "Gran Halcón"
+footer_author = "Gran Halcón"
 copyright_year = 2026
 navigation = [
-  { name = "Círculo", url = "" },
-  { name = "Círculo de Iniciación", url = "circulo-de-iniciacion/" },
-  { name = "Biblioteca", url = "biblioteca-de-consulta-saw/" },
-  { name = "Quinto Evangelio", url = "quinto-evangelio/" },
-  { name = "Primeras Letras", url = "primeras-letras/" },
-  { name = "Pintas Ayahuasqueras", url = "pintas-ayahuasqueras/" },
-  { name = "Círculos de Medicina", url = "circulos-de-medicina/" },
+  { name = "Círculo", url = "/", active = true },
+  { name = "Círculo de Iniciación", url = "https://circulo.pages.dev/circulo-de-iniciacion/" },
+  { name = "Biblioteca", url = "https://circulo.pages.dev/biblioteca-de-consulta-saw/" },
+  { name = "Quinto Evangelio", url = "https://circulo.pages.dev/quinto-evangelio/" },
+  { name = "Primeras Letras", url = "https://circulo.pages.dev/primeras-letras/" },
+  { name = "Pintas Ayahuasqueras", url = "https://circulo.pages.dev/pintas-ayahuasqueras/" },
+  { name = "Círculos de Medicina", url = "https://circulo.pages.dev/circulos-de-medicina/" },
 ]
+
+[extra.site]
+name = "Círculo de Cultura Gnóstica y Medicinas Ancestrales"
+short_name = "Círculo"
+locale = "es_MX"
+canonical_url = "https://circulo.pages.dev/"
+
+[extra.publisher]
+name = "Círculo de Cultura Gnóstica y Medicinas Ancestrales"
+url = "https://circulo.pages.dev/"
+
+[extra.search]
+enabled = true
+scope = "global"
+engine = "pagefind"
