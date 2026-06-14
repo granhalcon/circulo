@@ -19,6 +19,7 @@ lazy_async_image = true
 theme = "catppuccin-mocha"
 
 [extra]
+author = "Gran Halcón"
 search_url = "buscar/"
 footer_description = "Textos apócrifos de la enseñanza gnóstica y crónicas de las pintas ayahuasqueras de los jaguares y las serpientes."
 footer_author = "Gran Halcón"
