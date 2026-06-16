@@ -16,3 +16,6 @@
 [submodule "submodules/circulos-de-medicina"]
 	path = submodules/circulos-de-medicina
 	url = https://github.com/granhalcon/circulos-de-medicina.git
+[submodule "themes/enso"]
+	path = themes/enso
+	url = https://github.com/granhalcon/enso.git
