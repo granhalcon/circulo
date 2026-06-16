@@ -5,9 +5,12 @@ template = "index.html"
 
 [extra]
 author = "Gran Halcón"
+cover = "images/plantas-maestras.webp"
+cover_small = "images/plantas-maestras-800.webp"
+cover_width = 1600
+cover_height = 1600
+cover_alt = ""
 +++
-
-Textos apócrifos de la enseñanza gnóstica y crónicas de las pintas ayahuasqueras de los jaguares y las serpientes.
 
 ## Recursos de aprendizaje
 
