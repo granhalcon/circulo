@@ -10,16 +10,31 @@ cover_small = "images/plantas-maestras-800.webp"
 cover_width = 1600
 cover_height = 1600
 cover_alt = ""
+
+[[extra.sections]]
+title = "Círculo de Iniciación"
+path = "circulo-de-iniciacion/"
+
+[[extra.sections]]
+title = "Biblioteca de consulta de Samael Aun Weor"
+path = "biblioteca-de-consulta-saw/"
+
+[[extra.sections]]
+title = "Quinto Evangelio"
+path = "quinto-evangelio/"
+
+[[extra.sections]]
+title = "Primeras Letras"
+path = "primeras-letras/"
+
+[[extra.sections]]
+title = "Pintas ayahuasqueras"
+path = "pintas-ayahuasqueras/"
+
+[[extra.sections]]
+title = "Círculos de medicina"
+path = "circulos-de-medicina/"
 +++
-
-## Recursos de aprendizaje
-
-- [Círculo de estudio](circulo-de-estudio/)
-- [Biblioteca de consulta de Samael Aun Weor](biblioteca-de-consulta-saw/)
-- [Quinto Evangelio](quinto-evangelio/)
-- [Primeras Letras](primeras-letras/)
-- [Pintas ayahuasqueras](pintas-ayahuasqueras/)
-- [Círculos de medicina](circulos-de-medicina/)
 
 ## La Ceremonia de la Vida
 
