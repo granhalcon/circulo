@@ -5,11 +5,8 @@ template = "index.html"
 
 [extra]
 author = "Gran Halcón"
-cover = "images/plantas-maestras.webp"
-cover_small = "images/plantas-maestras-800.webp"
-cover_width = 1600
-cover_height = 1600
-cover_alt = ""
+cover = "portada.webp"
+cover_alt = "Círculo de Cultura Gnóstica y Medicinas Ancestrales"
 
 [[extra.sections]]
 title = "Círculo de Iniciación"
