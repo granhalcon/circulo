@@ -49,3 +49,5 @@ url = "https://circulo.pages.dev/"
 enabled = true
 scope = "global"
 engine = "pagefind"
+
+ignored_content = ["META.md", "submodules/**"]
