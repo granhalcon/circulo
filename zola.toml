@@ -1,3 +1,13 @@
-# zola.toml
-[theme]
-path = "../../circulo/themes/enso"
+base_url = "https://circulo.pages.dev"
+theme = "enso"
+
+[extra]
+navigation = [
+  { name = "Círculo", url = "/", active = true },
+  { name = "Círculo de Iniciación", url = "/circulo-de-iniciacion/" },
+  { name = "Biblioteca", url = "/biblioteca-de-consulta-saw/" },
+  { name = "Quinto Evangelio", url = "/quinto-evangelio/" },
+  { name = "Primeras Letras", url = "/primeras-letras/" },
+  { name = "Pintas Ayahuasqueras", url = "/pintas-ayahuasqueras/" },
+  { name = "Círculos de Medicina", url = "/circulos-de-medicina/" },
+]
