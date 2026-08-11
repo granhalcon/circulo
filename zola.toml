@@ -1,7 +1,16 @@
 base_url = "https://circulo.pages.dev"
 theme = "enso"
 
+title = "Círculo de Cultura Gnóstica y Medicinas Ancestrales"
+description = "Textos apócrifos de la enseñanza gnóstica y crónicas de las pintas ayahuasqueras de los jaguares y las serpientes."
+default_language = "es"
+author = "Gran Halcón"
+
 [extra]
+footer_description = "Círculo de Cultura Gnóstica y Medicinas Ancestrales"
+footer_author = "Gran Halcón"
+copyright_year = 2026
+
 navigation = [
   { name = "Círculo", url = "/", active = true },
   { name = "Círculo de Iniciación", url = "/circulo-de-iniciacion/" },
@@ -11,3 +20,9 @@ navigation = [
   { name = "Pintas Ayahuasqueras", url = "/pintas-ayahuasqueras/" },
   { name = "Círculos de Medicina", url = "/circulos-de-medicina/" },
 ]
+
+[extra.site]
+name = "Círculo de Cultura Gnóstica y Medicinas Ancestrales"
+short_name = "Círculo"
+locale = "es_MX"
+canonical_url = "https://circulo.pages.dev/"
